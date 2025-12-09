@@ -1,0 +1,93 @@
+{
+  "habits": [
+    {
+      "id": "1",
+      "name": "Morning Exercise",
+      "category": "Health",
+      "frequency": "Daily",
+      "targetCount": 30,
+      "currentStreak": 8,
+      "completionDates": [
+        "2024-11-25",
+        "2024-11-26",
+        "2024-11-27",
+        "2024-11-28",
+        "2024-11-29",
+        "2025-12-02",
+        "2025-12-03",
+        "2025-12-08"
+      ],
+      "lastCompleted": "2025-12-08"
+    },
+    {
+      "id": "2",
+      "name": "Read 30 Minutes",
+      "category": "Study",
+      "frequency": "Daily",
+      "targetCount": 30,
+      "currentStreak": 7,
+      "completionDates": [
+        "2024-11-27",
+        "2024-11-28",
+        "2024-11-29",
+        "2025-12-02",
+        "2025-12-03",
+        "2025-12-05",
+        "2025-12-08"
+      ],
+      "lastCompleted": "2025-12-08"
+    },
+    {
+      "id": "4998",
+      "name": "FSD Viva prep",
+      "category": "Study",
+      "frequency": "Daily",
+      "targetCount": 10,
+      "currentStreak": 4,
+      "completionDates": [
+        "2025-12-02",
+        "2025-12-03",
+        "2025-12-05",
+        "2025-12-08"
+      ],
+      "lastCompleted": "2025-12-08"
+    },
+    {
+      "id": "3800",
+      "name": "Skincare",
+      "category": "Mindfulness",
+      "frequency": "Daily",
+      "targetCount": 365,
+      "currentStreak": 1,
+      "completionDates": [
+        "2025-12-03"
+      ],
+      "lastCompleted": "2025-12-03"
+    },
+    {
+      "id": "8aea",
+      "name": "mEDITATE",
+      "category": "Health",
+      "frequency": "Daily",
+      "targetCount": 30,
+      "currentStreak": 2,
+      "completionDates": [
+        "2025-12-03",
+        "2025-12-05"
+      ],
+      "lastCompleted": "2025-12-05"
+    },
+    {
+      "id": "b2d9",
+      "name": "running",
+      "category": "Health",
+      "frequency": "Daily",
+      "targetCount": 20,
+      "currentStreak": 1,
+      "completionDates": [
+        "2025-12-08"
+      ],
+      "lastCompleted": "2025-12-08"
+    }
+  ]
+}
